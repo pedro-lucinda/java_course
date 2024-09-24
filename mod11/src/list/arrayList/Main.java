@@ -6,6 +6,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.ArrayList;
 
+// Arraylist fast reads and slow writes
 public class Main {
     public static void main(String[] args) {
 

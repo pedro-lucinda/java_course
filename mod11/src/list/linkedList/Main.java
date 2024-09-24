@@ -5,6 +5,7 @@ import list.domain.Student;
 import java.util.LinkedList;
 import java.util.List;
 
+// Linked list - fast writes and slow reads
 public class Main {
 
     public static void main(String[] args){
